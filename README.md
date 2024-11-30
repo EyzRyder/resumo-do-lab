@@ -1,1 +1,10 @@
-# resumo-do-lab
+# RESUMO do Lab Microsoft Azure 
+
+## Localizando Serviços por Categoria
+O Azure oferece uma ampla gama de serviços organizados em categorias, cada uma subdividida por tópicos específicos, como a categoria "Análise", que inclui ferramentas para processamento de Big Data, como Azure Databricks e HDInsight. Ao criar máquinas virtuais, o usuário pode configurar várias opções, como nome, região, e tipo de segurança. O SLA (Service Level Agreement) define a disponibilidade do serviço, com diferentes níveis de redundância para garantir alta disponibilidade. O armazenamento no Azure inclui configurações como redundância, desempenho e segurança, e há várias ferramentas para migração de dados, como AZ Copy e Azure Data Box. A gestão de identidade é feita pelo Entra ID, enquanto o Azure Defender e outras ferramentas de segurança garantem a proteção do ambiente. O portal de governança fornece recursos de auditoria, bloqueio de recursos e conformidade. Além disso, ferramentas como Azure Monitor e Service Health permitem monitorar e manter a saúde do ambiente, enquanto calculadoras de custos ajudam a estimar gastos e avaliar a migração para a nuvem.
+
+## Configurando Maquina virtual
+Durante o desenvolvimento do laboratório na DIO, aprendi sobre os diversos recursos e serviços da Azure, começando pela configuração e dimensionamento de máquinas virtuais, incluindo definições de regiões, zonas e permissões de acesso. Estudei também os principais recursos de armazenamento, além de aprender como migrar de licenças privadas para públicas. Uma das aulas mais relevantes foi sobre segurança e identidade, onde explorei autenticação, autorização e gerenciamento de usuários internos e externos, incluindo conceitos de B2C e B2B. Também aprendi sobre otimização de custos, gerenciamento de políticas de acesso, e as ferramentas de implantação, como o Azure Arc, que permite gerenciar múltiplas clouds. Por fim, a aula de monitoramento inteligente me ensinou a usar ferramentas para verificar a saúde dos recursos e identificar possíveis falhas.
+
+## Armazenamento Azure
+No lab apredndi: Criar contas de Armazenamento Fazer migrações de dados para Azure através de várias ferramentas como Azure Data Box, AzCopy e Gerenciador de Armazenamento Azure
